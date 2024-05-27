@@ -4,8 +4,9 @@
 
 ## Installation
 1. Ensure that you have Java 11 or later installed.
-2. Run `RoboChess.jar`.
-3. Press the "Start" button to begin playing.
+2. Download the latest version of RoboChess.
+3. Run `RoboChess.jar`.
+4. Press the "Start" button to begin playing.
 
 ## Controls
 - W, A, S, D: Move the selector.
