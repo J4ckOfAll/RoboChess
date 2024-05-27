@@ -1,4 +1,4 @@
-# About RoboChess
+## About RoboChess
 - High school computer science project that I worked on with @Papr3ka.
 - A chess game using the Becker Robots Library.
 
