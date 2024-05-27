@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bishop
+comment1.params=chessBoard\ piece
+comment1.target=Bishop(Board,\ BasePiece)
+comment2.params=currentSide\ oppositeSide
+comment2.target=java.util.ArrayList\ getNextPositions(java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=currentSide\ oppositeSide
+comment3.target=java.util.ArrayList\ getNextCovers(java.util.ArrayList,\ java.util.ArrayList)
+numComments=4

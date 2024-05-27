@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=King
+comment1.params=currentSide\ oppositeSide
+comment1.target=java.util.ArrayList\ getNextPositions(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=currentSide\ oppositeSide
+comment2.target=java.util.ArrayList\ getNextCovers(java.util.ArrayList,\ java.util.ArrayList)
+numComments=3

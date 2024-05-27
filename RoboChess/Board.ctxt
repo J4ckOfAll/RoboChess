@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=colorWhite_\ colorBlack_
+comment1.target=Board(java.awt.Color,\ java.awt.Color)
+comment2.params=
+comment2.target=becker.robots.City[]\ getState()
+comment3.params=
+comment3.target=void\ refreshBoard()
+comment4.params=x\ y\ color
+comment4.target=void\ selectBoard(int,\ int,\ java.awt.Color)
+numComments=5

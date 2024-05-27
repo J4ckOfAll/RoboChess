@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pawn
+comment1.params=
+comment1.target=java.lang.Boolean\ canEnPassant()
+comment2.params=
+comment2.target=void\ updateMoved()
+comment3.params=p
+comment3.target=void\ moveTo(java.awt.Point)
+comment4.params=currentSide\ oppositeSide
+comment4.target=java.util.ArrayList\ getNextPositions(java.util.ArrayList,\ java.util.ArrayList)
+comment5.params=currentSide\ oppositeSide
+comment5.target=java.util.ArrayList\ getNextCovers(java.util.ArrayList,\ java.util.ArrayList)
+numComments=6

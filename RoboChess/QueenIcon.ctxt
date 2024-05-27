@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=QueenIcon
+comment1.params=color
+comment1.target=QueenIcon(java.awt.Color)
+comment2.params=color\ relativeSize
+comment2.target=QueenIcon(java.awt.Color,\ double)
+numComments=3
